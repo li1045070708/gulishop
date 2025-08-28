@@ -1,5 +1,5 @@
 <template>
-  <div>Ho3me</div>
+  <div>Ho32me</div>
 </template>
 
 <script>
