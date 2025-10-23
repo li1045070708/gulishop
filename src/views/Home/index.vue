@@ -1,5 +1,5 @@
 <template>
-  <div>Ho32m22222255555222</div>
+  <div>测试数据</div>
 </template>
 
 <script>
